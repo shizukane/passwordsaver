@@ -52,7 +52,7 @@ def display_users():
     return User.display_users()
 
 def introduction():
-    print("Hey! Welcome to Password Locker")
+    print("Hey! Welcome to MY Passwords")
     print('\n')
     print("Please sign up for an accout to enjoy services")
 

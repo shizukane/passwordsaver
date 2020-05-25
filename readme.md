@@ -1,5 +1,5 @@
 # Projects  Name
- PasswordApp
+ PasswordSaver
 ## Description
    This is an application that will help us manage our passwords and even generate new passwords for us.
 ## Author and acknowledgement

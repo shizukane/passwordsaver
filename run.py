@@ -94,7 +94,7 @@ def introduction():
                     print(
                         f"Hey!Welcome {search_account.first_name} {search_account.second_name} \n")
                     print(
-                        "cc-To create new password, vc-To view all your passwords, ex-exit account \n ")
+                        "cc-To create new password, vc-To view your passwords, ex-exit account \n ")
                     short_code = input()
                     if short_code == 'cc':
                         print("New password")

@@ -78,7 +78,7 @@ def introduction():
             save_users(create_user(f_name, s_name, password))
             print('\n')
             print(
-                f"Congratulations {f_name} {s_name}, you now have an account with \n")
+                f"Congratulations {f_name} {s_name}, you now have an account with Us \n")
             print('\n')
         elif short_code == 'lg':
 

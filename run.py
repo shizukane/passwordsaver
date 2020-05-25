@@ -140,7 +140,7 @@ def introduction():
                         print("You have exited your account \n")
                         break
             else:
-                print("The password was incorrect \n")
+                print("The password you entered was incorrect \n")
                 print('\n')
         elif short_code == 'du':
             print("Here is a list of all the users\n")

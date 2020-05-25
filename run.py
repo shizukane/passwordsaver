@@ -150,7 +150,7 @@ def introduction():
 
         elif short_code == 'ex':
 
-            print("Ok well. hope to see you again! \n")
+            print("Goodbye. hope to see you ! \n")
 
             break
         else:

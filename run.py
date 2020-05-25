@@ -54,10 +54,10 @@ def display_users():
 def introduction():
     print("Hey! Welcome to MY Passwords")
     print('\n')
-    print("Please sign up for an accout to enjoy services")
+    print("Sign Up Today For Free!")
 
     while True:
-        print("Use these short codes : su - Sign up, lg - login, du-display all users, ex-Exit app ")
+        print("Use these short codes  : su - Sign up, lg - login, du-display all users, ex-Exit app ")
         print('\n')
         short_code = input().lower()
         print('\n')
@@ -102,7 +102,7 @@ def introduction():
                         account_name = input()
                         print("Make a password \n")
                         print(
-                            "To make your own password press- a, to generate a password press - g \n")
+                            "To create your own password press- a, to generate a password press - g \n")
                         generate = input()
                         print('\n')
 

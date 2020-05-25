@@ -15,4 +15,4 @@
   *  Email:drizydarolle@gmail.com
 #  Licence
  licensed under the [MIT License](license)
- copyright(c) 2020 Password-locker
+ copyright(c) 2020 Password-Saver

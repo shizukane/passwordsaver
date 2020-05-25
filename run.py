@@ -82,7 +82,7 @@ def introduction():
             print('\n')
         elif short_code == 'lg':
 
-            print("Enter the first name of your registered account")
+            print("Please Enter the first name of your registered account")
             account_name = input()
             print('\n')
 

@@ -1,7 +1,7 @@
 # Projects  Name
  PasswordSaver
 ## Description
-   This is an application that will help us manage our passwords and even generate new passwords for us.
+   This is an application that will help us manage our passwords and even generate new passwords for us If we need Other passwords.
 ## Author and acknowledgement
  Shizukane Darolle
 ## Technogies used

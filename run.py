@@ -154,7 +154,7 @@ def introduction():
 
             break
         else:
-            print("I cant understand this, please use these codes \n")
+            print("I cant understand this code, please use these codes \n")
 
 
 if __name__ == '__main__':

@@ -65,7 +65,7 @@ def introduction():
             print("New User")
             print("-"*9)
 
-            print("Enter you first name...")
+            print("Enter you first name....")
             f_name = input()
 
             print("Enter your second name...")

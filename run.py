@@ -71,7 +71,7 @@ def introduction():
             print("Enter your second name....")
             s_name = input()
 
-            print("Enter your password...")
+            print("Enter your password....")
             password = input()
             print('\n')
 
